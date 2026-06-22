@@ -32,7 +32,7 @@ You can verify the authenticity of the leaderboards by replacing the datasets in
 2. Rename the ```racestats.sqlite``` database.
 3. Replace its path to the ```ldb``` variable inside ```/scripts/steamworks/generateLeaderboards.sh``` script.
 4. Run the script from the container.
-5. Compare the generated datasets sha256 checksums with those committed on this repository.
+5. Compare the generated datasets sha256 checksums with those committed here on ```metadata.json```
 
 ## License
 All JSON datasets directly generated as a derivative work of the leaderboards SQL database are released with a public domain license [CC0 1.0](https://github.com/htprankster/reflex-racing-datasets/blob/main/LICENSE).
