@@ -1,12 +1,12 @@
 [
   {
     "status": {
-      "leaderboards": "active",
+      "leaderboards": "stall",
       "rss": "active"
     },
     "last_updated": {
       "leaderboards": "1789508891",
-      "rss": "1789508658"
+      "rss": "1789509890"
     },
     "sha256": {
       "leaderboards": {
@@ -20,7 +20,7 @@
         "ldb_noedit_records.json": "9de41bb9be0f013527695850b4d585b0e4c8b52a2fb41ce34029544746cd9655"
       },
       "rss": {
-        "rss.json": "cc57c87e1f0c94e969b4e71c5808cd55613ef82ce1ba4ce26fa038394923642d"
+        "rss.json": "45e692e8f8ac329042d52e615393505173ba5e811925be2d16e008d95bc6ef57"
       }
     }
   }
