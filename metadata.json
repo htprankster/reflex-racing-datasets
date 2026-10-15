@@ -1,23 +1,23 @@
 [
   {
     "status": {
-      "leaderboards": "paused",
-      "rss": "paused"
+      "leaderboards": "active",
+      "rss": "active"
     },
     "last_updated": {
-      "leaderboards": "1792061303",
-      "rss": "1792061070"
+      "leaderboards": "1792066114",
+      "rss": "1792065870"
     },
     "sha256": {
       "leaderboards": {
         "ldb_activity.json": "676c88c55f2a84349cebb7b0aa076afc02a57de204c9748eb35487a72c7152d2",
         "ldb_maps.json": "0e09ef6e2efcb20113bc17a959a5b0b520677ab467010f5f3801ef487cd2899d",
-        "ldb_players.json": "9feae83d76a909dec30cd83d71d8cc29cb341ce4cd487596be7b9e2e8f5c4074",
-        "ldb_records.json": "56d5e11ed9f652e9e251229c0a6ec0da7d7047edd53441cc29043c4a4dc7aecd",
-        "racestats.sqlite": "e9f8a1e35f179599677db28cee5f95cbde0388e2ec42ac3418f52eddbb253fea",
+        "ldb_players.json": "309cf3eba68cf80e98d3adc9efc00802301407764059c7ae8e7cf928fe81de38",
+        "ldb_records.json": "7f22e24cb7fbe7ab1308443e385af66f98d24b2917b2809115b206042e5a63de",
+        "racestats.sqlite": "2f84a22e8b4649d3d6b1fa54956d8b135fc15d4fb7ea8bc9159769e339d40887",
         "ldb_noedit_maps.json": "2aa1859ddfc58d9f90d39738630dd6c2b62dbc1ce1e94d3b7b42f0f9f0810a41",
-        "ldb_noedit_players.json": "3c87ee0e621ae6ba76c704c67edc7502cd4e7fbb8dd2b9378ea66a132c83e316",
-        "ldb_noedit_records.json": "56d5e11ed9f652e9e251229c0a6ec0da7d7047edd53441cc29043c4a4dc7aecd"
+        "ldb_noedit_players.json": "02fb75c31c54b0242dea604f7147994640412a6c818f870fd9a1f39a7cfdcf02",
+        "ldb_noedit_records.json": "7f22e24cb7fbe7ab1308443e385af66f98d24b2917b2809115b206042e5a63de"
       },
       "rss": {
         "rss.json": "cc57c87e1f0c94e969b4e71c5808cd55613ef82ce1ba4ce26fa038394923642d"
